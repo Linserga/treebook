@@ -6,3 +6,9 @@ one:
 
 two:
   content: MyText
+  user: serge
+
+three:
+  content: "Hi I'm Jim"
+  user: jim
+

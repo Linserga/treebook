@@ -3,4 +3,10 @@ serge:
   last_name: 'linkov'
   email: 'yum@com.ru'
   profile_name: 'linserga'
-  encrypted_password: '123'
+
+
+jim:
+  first_name: 'Jim'
+  last_name: 'Hoskins'
+  email: 'jim@teartreehouse.com'
+  profile_name: 'jimhoskins'
